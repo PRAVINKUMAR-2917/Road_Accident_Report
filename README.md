@@ -8,7 +8,6 @@ This project focuses on analyzing road accident data, performing exploratory dat
 - Creating a dynamic Power BI dashboard
 
 ## Dataset
-- **Source:** [GitHub Repository](https://github.com/PRAVINKUMAR-2917/Road_Accident_Report)
 - **Format:** CSV/Excel
 - **Contents:** Includes attributes such as accident date, time, location, vehicle type, severity, casualties, and weather conditions.
 
