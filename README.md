@@ -53,5 +53,6 @@ This project focuses on analyzing road accident data, performing exploratory dat
 ## Conclusion
 This project provides insights into road accident trends and contributes to better decision-making for traffic safety measures. The dynamic Power BI dashboard enhances interactivity and data-driven analysis.
 
----
-Feel free to contribute or suggest improvements!
+![Screenshot 2025-02-28 212716](https://github.com/user-attachments/assets/b91c8399-2521-4c06-9f71-80a81abc26a8)
+![Screenshot 2025-02-28 212734](https://github.com/user-attachments/assets/caee38d1-aacb-4b90-9eef-a96e066b95ae)
+
