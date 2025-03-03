@@ -29,7 +29,6 @@ This project focuses on analyzing road accident data, performing exploratory dat
    - Create interactive visuals such as:
      - Accident frequency by time, day, and location
      - Severity distribution
-     - Correlation with weather conditions
      - Trend analysis
    - Implement slicers for filtering insights dynamically.
 
