@@ -34,7 +34,7 @@ This project focuses on analyzing road accident data, performing exploratory dat
 
 ## Technologies Used
 - **Python Libraries:** Pandas, Matplotlib, Seaborn, NumPy
-- **Power BI:** Data import, visualization, DAX expressions
+- **Power BI:** Data import, visualization,
 - **Jupyter Notebook:** EDA execution
 
 ## Installation & Setup
