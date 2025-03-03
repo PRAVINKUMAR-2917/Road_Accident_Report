@@ -46,7 +46,7 @@ This project focuses on analyzing road accident data, performing exploratory dat
    ```sh
    pip install pandas numpy matplotlib seaborn
    ```
-3. Run the Jupyter Notebook for EDA (**Accident_Report.ipynb** )
+3. Run the Jupyter Notebook for EDA (https://github.com/PRAVINKUMAR-2917/Road_Accident_Report/blob/main/Accident_Report.ipynb )
 4. Load the processed data into Power BI for visualization.
 
 ## Conclusion
